@@ -8,16 +8,16 @@
   /* Color */
   --color-overlay-5: #0e121b;
   --color-overlay-50: #0e121b;
-  --color-elevation-2-old: #556077;
-  --color-elevation-7old: #556077;
-  --color-elevation-10old: #556077;
-  --color-elevation-13old: #556077;
-  --color-elevation-1: #556077;
-  --color-elevation-2: #556077;
-  --color-elevation-4: #556077;
-  --color-elevation-5: #556077;
-  --color-elevation-6: #556077;
-  --color-elevation-7: #556077;
+  --shadow-color-2-old: #556077;
+  --shadow-color-7old: #556077;
+  --shadow-color-10old: #556077;
+  --shadow-color-13old: #556077;
+  --shadow-color-1: #556077;
+  --shadow-color-2: #556077;
+  --shadow-color-4: #556077;
+  --shadow-color-5: #556077;
+  --shadow-color-6: #556077;
+  --shadow-color-7: #556077;
   --bg-color-canvas: var(--color-new-gray-2000);
   --bg-color-secondary: var(--color-new-gray-1600);
   --bg-color-subtle: var(--color-new-gray-1800);

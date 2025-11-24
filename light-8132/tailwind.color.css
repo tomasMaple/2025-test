@@ -8,16 +8,16 @@
   /* Color */
   --color-overlay-5: #ffffff;
   --color-overlay-50: #ffffff;
-  --color-elevation-2-old: #000000;
-  --color-elevation-7old: #000000;
-  --color-elevation-10old: #000000;
-  --color-elevation-13old: #000000;
-  --color-elevation-1: #283547;
-  --color-elevation-2: #283547;
-  --color-elevation-4: #283547;
-  --color-elevation-5: #283547;
-  --color-elevation-6: #283547;
-  --color-elevation-7: #283547;
+  --shadow-color-2-old: #000000;
+  --shadow-color-7old: #000000;
+  --shadow-color-10old: #000000;
+  --shadow-color-13old: #000000;
+  --shadow-color-1: #283547;
+  --shadow-color-2: #283547;
+  --shadow-color-4: #283547;
+  --shadow-color-5: #283547;
+  --shadow-color-6: #283547;
+  --shadow-color-7: #283547;
   --bg-color-canvas: var(--color-new-slate-100);
   --bg-color-secondary: var(--color-new-slate-200);
   --bg-color-subtle: var(--color-new-slate-100);
